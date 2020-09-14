@@ -26,8 +26,12 @@ You can, however, create a private mirror:
 
 `rm -rf mountain.git`
 
-#### 5. Add YousefED as collaborator
-In your private repo settings, add GitHub user [YousefED](https://github.com/YousefED) as a collaborator, so that he can review your code!
+#### 5. Add reviewers as collaborators
+In your private repo settings, add the following GitHub users as collaborators, so that they can review your code:
+- [Ronald Steen](https://github.com/ronaldsteen)
+- [Frikkie Snyman](https://github.com/FrikkieSnyman)
+- [Ralf Nieuwenhuizen](https://github.com/RalfNieuwenhuizen)
+- [Joep van der Heijden](https://github.com/Klaasvaak)
 
 ## Install node_modules
 
