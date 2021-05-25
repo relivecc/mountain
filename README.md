@@ -13,26 +13,37 @@ This project is a simple framework for a game / visualization of our adventure!
 Your solutions should be in a private repo. Since this repo is public, you can not fork it and then make it private.
 
 You can, however, create a private mirror:
+
 #### 1. Create a new private repo on GitHub
+
 [Follow the instructions here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-new-repository).
+
 #### 2. Bare clone this repo
+
 `git clone --bare https://github.com/relivecc/mountain.git`
+
 #### 3. Mirror-push the cloned repo to the private repo you created in step 1
+
 `cd mountain.git`
 
 `git push --mirror https://github.com/exampleuser/new-repository.git`
+
 #### 4. Remove the local repo you cloned in step 1
+
 `cd ..`
 
 `rm -rf mountain.git`
 
 #### 5. Add reviewers as collaborators
+
 In your private repo settings, add the following GitHub users as collaborators, so that they can review your code:
-- [Ronald Steen](https://github.com/ronaldsteen)
-- [Frikkie Snyman](https://github.com/FrikkieSnyman)
-- [Ralf Nieuwenhuizen](https://github.com/RalfNieuwenhuizen)
-- [Joep van der Heijden](https://github.com/Klaasvaak)
-- [Bryan van Wijk](https://github.com/bryanvanwijk)
+
+-   [Ronald Steen](https://github.com/ronaldsteen)
+-   [Frikkie Snyman](https://github.com/FrikkieSnyman)
+-   [Ralf Nieuwenhuizen](https://github.com/RalfNieuwenhuizen)
+-   [Joep van der Heijden](https://github.com/Klaasvaak)
+-   [Bryan van Wijk](https://github.com/bryanvanwijk)
+-   [Pavol Fulop](https://github.com/pfulop)
 
 ## Install node_modules
 
