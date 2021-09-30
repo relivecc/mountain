@@ -41,7 +41,6 @@ In your private repo settings, add the following GitHub users as collaborators, 
 -   [Ronald Steen](https://github.com/ronaldsteen)
 -   [Frikkie Snyman](https://github.com/FrikkieSnyman)
 -   [Ralf Nieuwenhuizen](https://github.com/RalfNieuwenhuizen)
--   [Joep van der Heijden](https://github.com/Klaasvaak)
 -   [Bryan van Wijk](https://github.com/bryanvanwijk)
 -   [Pavol Fulop](https://github.com/pfulop)
 
