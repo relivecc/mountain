@@ -42,6 +42,7 @@ In your private repo settings, add the following GitHub users as collaborators, 
 -   [Ralf Nieuwenhuizen](https://github.com/RalfNieuwenhuizen)
 -   [Bryan van Wijk](https://github.com/bryanvanwijk)
 -   [Pavol Fulop](https://github.com/pfulop)
+-   [Kamil Wojtczyk](https://github.com/k0ff33)
 
 ## Install node_modules
 
