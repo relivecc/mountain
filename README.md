@@ -38,7 +38,6 @@ You can, however, create a private mirror:
 
 In your private repo settings, add the following GitHub users as collaborators, so that they can review your code:
 
--   [Ronald Steen](https://github.com/ronaldsteen)
 -   [Frikkie Snyman](https://github.com/FrikkieSnyman)
 -   [Ralf Nieuwenhuizen](https://github.com/RalfNieuwenhuizen)
 -   [Bryan van Wijk](https://github.com/bryanvanwijk)
